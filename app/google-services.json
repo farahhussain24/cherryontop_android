@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490489351529",
+    "project_id": "cherry-on-top-e84f9",
+    "storage_bucket": "cherry-on-top-e84f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490489351529:android:f30410d83894bb2f98c1f8",
+        "android_client_info": {
+          "package_name": "com.example.cherryontop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490489351529-n8ellq4fc0f7lbu5u0im9vq25ou65221.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZ1-bAgGigEWFTlziMTKcBFzy5xxmfh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490489351529-n8ellq4fc0f7lbu5u0im9vq25ou65221.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

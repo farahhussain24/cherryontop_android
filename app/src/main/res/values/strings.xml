@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+    <resources>
+
+    <string name="app_name">Cherry On Top</string>
+    <string name="tagline">Add Sweetness To Your Joys!</string>
+    <string name="logInBtn">Log In</string>
+
+    <string name="registerBtn">Sign up</string>
+    <string name="menutitle">Go To Menu</string>
+
+    <string name="name">Name</string>
+
+    <string name="rs">Rs.</string>
+
+    <string name="price">Price</string>
+
+    <string name="description">Description</string>
+
+    <string name="cakes">Cakes</string>
+
+    <string name="brownies_and_cupcakes">Brownies And Cupcakes</string>
+
+    <string name="cookies">Cookies</string>
+
+    <string name="shakes">Shakes</string>
+
+</resources>
